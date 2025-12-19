@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "636465061388",
+    "firebase_url": "https://lost-and-found-pet-7d882-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lost-and-found-pet-7d882",
+    "storage_bucket": "lost-and-found-pet-7d882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636465061388:android:bde7090dadf17640f25829",
+        "android_client_info": {
+          "package_name": "com.example.proyek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-19kyskMg51C2FTM4JVRkXVgg-NNbJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

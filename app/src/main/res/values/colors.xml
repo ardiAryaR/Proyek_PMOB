@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Background -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#7A7A7A</color>
+
+    <!-- Button Colors (Sesuai Gambar) -->
+    <color name="signup_blue">#39C5E6</color>
+    <color name="login_gray">#F1F3F6</color>
+
+</resources>
+
