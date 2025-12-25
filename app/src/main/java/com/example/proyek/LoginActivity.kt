@@ -69,6 +69,12 @@ class LoginActivity : AppCompatActivity() {
                         Toast.LENGTH_SHORT
                     ).show()
 
+                    // buka HomeActivity dan clear back stack supaya user tidak kembali ke login
+                    val intent = Intent(this, HomeActivity::class.java)
+                    intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+                    startActivity(intent)
+                    finish()
+
                 }
                 .addOnFailureListener {
                     btnLogin.isEnabled = true
